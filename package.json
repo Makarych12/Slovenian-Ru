@@ -1,1 +1,15 @@
-{"name":"railsi-translate","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node --env-file-if-exists=.env server/index.js","dev":"node --env-file-if-exists=.env --watch server/index.js","test":"node --test","check":"node --check server/index.js && node --check server/translate.js && node --check pwa/app.js && node --check pwa/sw.js"},"engines":{"node":">=22.9"}}
+{
+  "name": "railsi-translate",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server/index.js",
+    "dev": "node --env-file-if-exists=.env --watch server/index.js",
+    "test": "node --test",
+    "check": "node --check server/index.js && node --check server/api.js && node --check server/translate.js && node --check api/health.js && node --check api/translate.js && node --check pwa/app.js && node --check pwa/sw.js"
+  },
+  "engines": {
+    "node": ">=22.9"
+  }
+}
