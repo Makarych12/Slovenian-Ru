@@ -1,0 +1,82 @@
+[
+  {
+    "category": "general",
+    "ru": "Здравствуйте!",
+    "sl": "Dober dan!"
+  },
+  {
+    "category": "general",
+    "ru": "Спасибо за помощь.",
+    "sl": "Hvala za pomoč."
+  },
+  {
+    "category": "general",
+    "ru": "Пожалуйста, говорите медленнее.",
+    "sl": "Prosim, govorite počasneje."
+  },
+  {
+    "category": "general",
+    "ru": "Я не понимаю.",
+    "sl": "Ne razumem."
+  },
+  {
+    "category": "railway",
+    "ru": "Где находится станция?",
+    "sl": "Kje je postaja?"
+  },
+  {
+    "category": "railway",
+    "ru": "Когда отправляется поезд?",
+    "sl": "Kdaj odpelje vlak?"
+  },
+  {
+    "category": "railway",
+    "ru": "На каком пути стоит поезд?",
+    "sl": "Na katerem tiru je vlak?"
+  },
+  {
+    "category": "railway",
+    "ru": "Поезд опаздывает.",
+    "sl": "Vlak zamuja."
+  },
+  {
+    "category": "maintenance",
+    "ru": "Необходимо проверить тормоза.",
+    "sl": "Preveriti je treba zavore."
+  },
+  {
+    "category": "maintenance",
+    "ru": "Локомотив неисправен.",
+    "sl": "Lokomotiva je pokvarjena."
+  },
+  {
+    "category": "maintenance",
+    "ru": "Где находятся инструменты?",
+    "sl": "Kje je orodje?"
+  },
+  {
+    "category": "maintenance",
+    "ru": "Проверьте давление.",
+    "sl": "Preverite tlak."
+  },
+  {
+    "category": "safety",
+    "ru": "Остановите поезд!",
+    "sl": "Ustavite vlak!"
+  },
+  {
+    "category": "safety",
+    "ru": "Вызовите помощь!",
+    "sl": "Pokličite pomoč!"
+  },
+  {
+    "category": "safety",
+    "ru": "Осторожно, высокое напряжение!",
+    "sl": "Pozor, visoka napetost!"
+  },
+  {
+    "category": "safety",
+    "ru": "Не прикасайтесь к проводам.",
+    "sl": "Ne dotikajte se žic."
+  }
+]

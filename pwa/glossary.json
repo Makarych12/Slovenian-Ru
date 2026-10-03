@@ -1,0 +1,716 @@
+[
+  {
+    "ru": "машинист",
+    "sl": "strojevodja",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "поезд",
+    "sl": "vlak",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "железная дорога",
+    "sl": "železnica",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "станция",
+    "sl": "postaja",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "платформа",
+    "sl": "peron",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "рельс",
+    "sl": "tirnica",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "путь",
+    "sl": "tir",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "стрелочный перевод",
+    "sl": "kretnica",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "расписание",
+    "sl": "vozni red",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "переезд",
+    "sl": "nivojski prehod",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "туннель",
+    "sl": "predor",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "мост",
+    "sl": "most",
+    "category": "railway",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "локомотив",
+    "sl": "lokomotiva",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "электровоз",
+    "sl": "električna lokomotiva",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "дизельный двигатель",
+    "sl": "dizelski motor",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "кабина машиниста",
+    "sl": "strojevodska kabina",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "компрессор",
+    "sl": "kompresor",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "пантограф",
+    "sl": "pantograf",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "песочница",
+    "sl": "peskovnik",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "радиатор",
+    "sl": "hladilnik",
+    "category": "locomotive",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "вагон",
+    "sl": "vagon",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "грузовой вагон",
+    "sl": "tovorni vagon",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "пассажирский вагон",
+    "sl": "potniški vagon",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "колесо",
+    "sl": "kolo",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "ось",
+    "sl": "os",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "подшипник",
+    "sl": "ležaj",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "тележка",
+    "sl": "podstavni voziček",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "тормоз",
+    "sl": "zavora",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "тормозной диск",
+    "sl": "zavorni kolut",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "тормозная колодка",
+    "sl": "zavorni čevelj",
+    "category": "rolling_stock",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "тяговый двигатель",
+    "sl": "vlečni motor",
+    "category": "traction",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "тяга",
+    "sl": "vleka",
+    "category": "traction",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "мощность",
+    "sl": "moč",
+    "category": "traction",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "крутящий момент",
+    "sl": "navor",
+    "category": "traction",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "ускорение",
+    "sl": "pospešek",
+    "category": "traction",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "скорость",
+    "sl": "hitrost",
+    "category": "traction",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "преобразователь",
+    "sl": "pretvornik",
+    "category": "traction",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "контактная сеть",
+    "sl": "vozno omrežje",
+    "category": "catenary",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "контактный провод",
+    "sl": "kontaktna žica",
+    "category": "catenary",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "изолятор",
+    "sl": "izolator",
+    "category": "catenary",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "опора",
+    "sl": "drog",
+    "category": "catenary",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "заземление",
+    "sl": "ozemljitev",
+    "category": "catenary",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "напряжение",
+    "sl": "napetost",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "электрический ток",
+    "sl": "električni tok",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "сопротивление",
+    "sl": "upornost",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "постоянный ток",
+    "sl": "enosmerni tok",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "переменный ток",
+    "sl": "izmenični tok",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "трансформатор",
+    "sl": "transformator",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "предохранитель",
+    "sl": "varovalka",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "выключатель",
+    "sl": "stikalo",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "короткое замыкание",
+    "sl": "kratek stik",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "кабель",
+    "sl": "kabel",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "обмотка",
+    "sl": "navitje",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "аккумулятор",
+    "sl": "akumulator",
+    "category": "electrical",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "сигнал",
+    "sl": "signal",
+    "category": "signalling",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "светофор",
+    "sl": "semafor",
+    "category": "signalling",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "сигнализация",
+    "sl": "signalizacija",
+    "category": "signalling",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "датчик",
+    "sl": "senzor",
+    "category": "signalling",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "диспетчер",
+    "sl": "dispečer",
+    "category": "signalling",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "безопасность",
+    "sl": "varnost",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "опасность",
+    "sl": "nevarnost",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "аварийная остановка",
+    "sl": "zaustavitev v sili",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "пожар",
+    "sl": "požar",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "огнетушитель",
+    "sl": "gasilni aparat",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "защитные перчатки",
+    "sl": "zaščitne rokavice",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "защитные очки",
+    "sl": "zaščitna očala",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "первая помощь",
+    "sl": "prva pomoč",
+    "category": "safety",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "техническое обслуживание",
+    "sl": "vzdrževanje",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "ремонт",
+    "sl": "popravilo",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "осмотр",
+    "sl": "pregled",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "неисправность",
+    "sl": "okvara",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "смазка",
+    "sl": "mazivo",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "масло",
+    "sl": "olje",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "фильтр",
+    "sl": "filter",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "запасная часть",
+    "sl": "nadomestni del",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "инструмент",
+    "sl": "orodje",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "износ",
+    "sl": "obraba",
+    "category": "maintenance",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "электроника",
+    "sl": "elektronika",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "печатная плата",
+    "sl": "tiskano vezje",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "резистор",
+    "sl": "upor",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "конденсатор",
+    "sl": "kondenzator",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "диод",
+    "sl": "dioda",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "транзистор",
+    "sl": "tranzistor",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "реле",
+    "sl": "rele",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "разъём",
+    "sl": "konektor",
+    "category": "electronics",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "программное обеспечение",
+    "sl": "programska oprema",
+    "category": "it",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "компьютер",
+    "sl": "računalnik",
+    "category": "it",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "сеть",
+    "sl": "omrežje",
+    "category": "it",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "пароль",
+    "sl": "geslo",
+    "category": "it",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "файл",
+    "sl": "datoteka",
+    "category": "it",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "ошибка",
+    "sl": "napaka",
+    "category": "it",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "обновление",
+    "sl": "posodobitev",
+    "category": "it",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "документ",
+    "sl": "dokument",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "инструкция",
+    "sl": "navodilo",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "температура",
+    "sl": "temperatura",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "давление",
+    "sl": "tlak",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "длина",
+    "sl": "dolžina",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "масса",
+    "sl": "masa",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "время",
+    "sl": "čas",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "номер",
+    "sl": "številka",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "вход",
+    "sl": "vhod",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  },
+  {
+    "ru": "выход",
+    "sl": "izhod",
+    "category": "general",
+    "aliases_ru": [],
+    "aliases_sl": []
+  }
+]

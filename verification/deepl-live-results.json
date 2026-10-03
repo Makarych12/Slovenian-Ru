@@ -1,0 +1,92 @@
+[
+  {
+    "sourceLang": "SL",
+    "targetLang": "RU",
+    "text": "Kako se danes počutiš?",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Как ты себя сегодня чувствуешь?",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "SL",
+    "targetLang": "RU",
+    "text": "Danes grem v službo, potem pa se bom vrnil domov.",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Сегодня я пойду на работу, а потом вернусь домой.",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "SL",
+    "targetLang": "RU",
+    "text": "Strojevodja mora pred odhodom preveriti stanje lokomotive.",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Перед отправлением машинист должен проверить состояние локомотива.",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "SL",
+    "targetLang": "RU",
+    "text": "Na električni napeljavi je bila ugotovljena napaka.",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "В электропроводке была обнаружена неисправность.",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "SL",
+    "targetLang": "RU",
+    "text": "Prosim, povejte mi, kje je železniška postaja.",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Пожалуйста, скажите мне, где находится железнодорожный вокзал.",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "RU",
+    "targetLang": "SL",
+    "text": "Сегодня я иду на работу, а вечером вернусь домой.",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Danes grem v službo, zvečer pa se bom vrnil domov.",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "RU",
+    "targetLang": "SL",
+    "text": "Машинист должен перед отправлением проверить состояние локомотива.",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Strojevodja mora pred odhodom preveriti stanje lokomotive.",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "RU",
+    "targetLang": "SL",
+    "text": "В электрической цепи обнаружена неисправность.",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "V električnem tokokrogu je bila odkrita napaka.",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "RU",
+    "targetLang": "SL",
+    "text": "Где находится железнодорожный вокзал?",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Kje je železniška postaja?",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  }
+]

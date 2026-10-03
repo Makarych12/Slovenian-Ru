@@ -1,0 +1,22 @@
+[
+  {
+    "sourceLang": "SL",
+    "targetLang": "RU",
+    "text": "Kako se danes počutiš?",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Как ты себя сегодня чувствуешь?",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  },
+  {
+    "sourceLang": "RU",
+    "targetLang": "SL",
+    "text": "Где находится железнодорожный вокзал?",
+    "httpStatus": 200,
+    "ok": true,
+    "translation": "Kje je železniška postaja?",
+    "provider": "DeepL",
+    "deepLStatus": 200
+  }
+]
